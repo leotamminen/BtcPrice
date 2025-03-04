@@ -1,0 +1,9 @@
+apikey.py
+btcpre.py
+*.pyc
+__pycache__/
+venv/
+.env/
+.vscode/
+.idea/
+*.log
